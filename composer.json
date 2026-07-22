@@ -1,7 +1,14 @@
 {
     "name": "portphp/portphp",
     "description": "Data import/export workflow",
-    "keywords": [ "data", "import", "export", "csv", "excel", "doctrine" ],
+    "keywords": [
+        "data",
+        "import",
+        "export",
+        "csv",
+        "excel",
+        "doctrine"
+    ],
     "license": "MIT",
     "homepage": "https://github.com/portphp",
     "authors": [
@@ -21,7 +28,7 @@
     "support": {
         "issues": "https://github.com/portphp/portphp/issues",
         "source": "https://github.com/portphp/portphp",
-        "docs": "https://portphp.readthedocs.org"
+        "docs": "https://portphp.readthedocs.io"
     },
     "require": {
         "php": ">=7.4",
