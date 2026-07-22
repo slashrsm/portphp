@@ -1,8 +1,8 @@
 # portphp/portphp
 
 [![Latest Version](https://img.shields.io/github/release/portphp/portphp.svg?style=flat-square)](https://github.com/portphp/portphp/releases)
-[![CI](https://github.com/portphp/portphp/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/portphp/portphp/actions)
-[![PHP](https://img.shields.io/badge/php-8.2%20%7C%208.3%20%7C%208.4%20%7C%208.5-blue.svg?style=flat-square)](https://github.com/portphp/portphp/actions)
+[![CI](https://github.com/portphp/portphp/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/portphp/portphp/actions/workflows/test.yml)
+[![PHP](https://img.shields.io/badge/php-8.2%20%7C%208.3%20%7C%208.4%20%7C%208.5-blue.svg?style=flat-square)](https://github.com/portphp/portphp/actions/workflows/test.yml)
 
 **Tested in CI:** 8.2, 8.3, 8.4, and 8.5.
 
