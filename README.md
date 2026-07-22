@@ -1,9 +1,11 @@
 # portphp/portphp
 
 [![Latest Version](https://img.shields.io/github/release/portphp/portphp.svg?style=flat-square)](https://github.com/portphp/portphp/releases)
-[![Build Status](https://travis-ci.org/portphp/portphp.svg)](https://travis-ci.org/portphp/portphp)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/portphp/portphp/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/portphp/portphp/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/portphp/portphp/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/portphp/portphp/?branch=master)
+[![CI](https://github.com/portphp/portphp/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/portphp/portphp/actions/workflows/test.yml)
+[![PHP](https://img.shields.io/badge/php-8.2%20%7C%208.3%20%7C%208.4%20%7C%208.5-blue.svg?style=flat-square)](https://github.com/portphp/portphp/actions/workflows/test.yml)
+
+**Tested in CI:** 8.2, 8.3, 8.4, and 8.5.
+
 
 Port is a data import/export workflow for PHP.
 
@@ -22,7 +24,7 @@ of the Composer documentation.
 
 ## Documentation
 
-Documentation is available at https://portphp.readthedocs.org.
+Documentation is available at https://portphp.readthedocs.io.
 
 ## Issues and feature requests
 
